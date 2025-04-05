@@ -17,17 +17,3 @@ Welcome to the **AI Recipe Simplifier**, a smart web app that uses Google's **Ge
 
 ---
 
-## 🚀 Demo
-
-Try the app locally:
-
-![App Preview](screenshots/ui_preview.gif)
-
----
-
-## 🛠️ Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/ai-recipe-simplifier.git
-   cd ai-recipe-simplifier
